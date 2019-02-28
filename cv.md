@@ -1,5 +1,6 @@
-## Pavel Shanhin 
+### Pavel Shanhin 
 ### Web Developer
+##
 
 ### INFO
 * tel: +375(29)7529710
@@ -44,7 +45,7 @@
 ### EDUCATION AND TRAININGS
 
 **Trainings**
-  * The "Rolling scopes school"([link](ttps://school.rollingscopes.com/)) 09.2018 – 02.2019
+  * The "Rolling scopes school" ([link](https://school.rollingscopes.com/)) 09.2018 – 02.2019
   * Course Java SE, Bigsoft company 05.2015 - 27.05.2015
 
 **Education**
