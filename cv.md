@@ -1,5 +1,5 @@
 ## Pavel Shanhin 
-**WEB Developer**
+### Web Developer
 
 ### INFO
 * tel: +375(29)7529710
@@ -50,3 +50,4 @@
 **Education**
   * Belarusian National Technical University, Minsk, Belarus
     Specialist (Bachelor Degree) – Engineer (Machine Building Technology Equipment)
+##
