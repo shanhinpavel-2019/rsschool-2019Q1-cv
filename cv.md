@@ -8,7 +8,7 @@ WEB Developer
 
 ### SUMMARY 
   Novice frontend-developer with technical education.
-  `<addr>`Confident knowledge of HTML, CSS, JavaScript, React.
+  `Confident knowledge of HTML, CSS, JavaScript, React.`
 
 ### TECHNICAL SKILLS
   * Programming languages and technologies: *JavaScript, HTML, CSS, Java SE, Node.js*
