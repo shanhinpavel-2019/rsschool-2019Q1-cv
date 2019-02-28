@@ -1,10 +1,10 @@
-##Pavel Shanhin
-###WEB developer
+## Pavel Shanhin
+### WEB developer
 
 * tel: +37529 7529710
 * email: shanMail@tut.by
 * github: [GitHub](https://github.com/ShanhinPavel)
 
-###SUMMARY 
+### SUMMARY 
   Novice frontend-developer with technical education.
   Confident knowledge of HTML, CSS, JavaScript, React.
