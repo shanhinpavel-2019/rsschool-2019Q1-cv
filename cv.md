@@ -1,7 +1,7 @@
 # Pavel Shanhin
 ## WEB Developer
 
-### INFO
+## INFO
 * tel: +375(29)7529710
 * email: shanMail@tut.by
 * github: [link](https://github.com/ShanhinPavel)
