@@ -1,19 +1,22 @@
-# Pavel Shanhin
-## WEB Developer
+## Pavel Shanhin 
+**WEB Developer**
 
 ### INFO
 * tel: +375(29)7529710
 * email: shanMail@tut.by
 * github: [link](https://github.com/ShanhinPavel)
+##
 
 ### SUMMARY 
   Novice frontend-developer with technical education.
   Confident knowledge of HTML, CSS, JavaScript, React.
+##
 
 ### TECHNICAL SKILLS
   * Programming languages and technologies: *JavaScript, HTML, CSS, Java SE, Node.js*
   * Frameworks and libraries: *React, Redux, Lodash*
   * Tools: *Git, Webpack, VS Code,  Eclipse, CircleCi*
+##
 
 ### EXPERIENCE
   **Projects:**
@@ -34,10 +37,10 @@
     * Link github repository: [link](https://github.com/ShanhinPavel/YouTubeApp)
     * Position: developer
     * Enviroment: HTML, CSS, JavaScript, Webpack
-
+##
 ### PRESENTATIONS
   * Modules: [link](https://youtu.be/jNEfbUwvXko)
-
+##
 ### EDUCATION AND TRAININGS
 
 **Trainings**
