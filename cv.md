@@ -16,7 +16,7 @@ WEB developer
   * Tools: *Git, Webpack, VS Code,  Eclipse, CircleCi*
 
 ### EXPERIENCE
-  #### Projects:
+  **Projects:**
   * *Mentor dashboard (2019)*
     * Link to github pages: [link](https://shanhinpavel.github.io/mentors-dashboard/)
     * Link github repository: [link](https://github.com/ShanhinPavel/mentors-dashboard)
@@ -39,9 +39,11 @@ WEB developer
   * Modules: [link](https://youtu.be/jNEfbUwvXko)
 
 ### EDUCATION AND TRAININGS
-*Trainings*
+
+**Trainings**
   * The "Rolling scopes school"([link](ttps://school.rollingscopes.com/)) 09.2018 – 02.2019
   * Course Java SE, Bigsoft company 05.2015 - 27.05.2015
-*Education*
+
+**Education**
   * Belarusian National Technical University, Minsk, Belarus
     Specialist (Bachelor Degree) – Engineer (Machine Building Technology Equipment)
