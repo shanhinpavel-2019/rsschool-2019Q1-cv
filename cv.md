@@ -1,5 +1,5 @@
 ## Pavel Shanhin
-WEB developer
+WEB Developer
 
 ### INFO
 * tel: +375(29)7529710
@@ -8,7 +8,7 @@ WEB developer
 
 ### SUMMARY 
   Novice frontend-developer with technical education.
-  Confident knowledge of HTML, CSS, JavaScript, React.
+  `<addr>`Confident knowledge of HTML, CSS, JavaScript, React.
 
 ### TECHNICAL SKILLS
   * Programming languages and technologies: *JavaScript, HTML, CSS, Java SE, Node.js*
