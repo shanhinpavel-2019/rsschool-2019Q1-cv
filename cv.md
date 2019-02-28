@@ -1,5 +1,5 @@
 # Pavel Shanhin
-WEB Developer
+**WEB Developer**
 
 ### INFO
 * tel: +375(29)7529710
